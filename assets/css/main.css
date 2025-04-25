@@ -29,6 +29,13 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+img.sc
+{
+	max-width: 100%;
+	min-width: 300px;
+	height: auto;
+}
+
 body {
 	line-height: 1;
 }
